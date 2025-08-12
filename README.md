@@ -8,7 +8,6 @@ This script allows players to interactively plant, harvest, and sell crops.
 - Farming locations with a target system (qb-target)
 - Planting and harvesting with animations
 - Harvested items stored in inventory
-- Integration with **QBCore inventory**
 - Easy configuration via `config.lua`
 
 ---
